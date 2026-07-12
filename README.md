@@ -13,5 +13,7 @@
 **🎓 Universidad Tecnológica del Perú**
 
 Repositorio desarrollado con fines académicos.
+<img src="https://www.greatplacetowork.com.pe/mejores-lugares-para-trabajar/los-mejores-lugares-para-trabajar-en-per%C3%BA/2026/utp">
+
 
 </div>
