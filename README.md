@@ -14,7 +14,7 @@
 
 Repositorio desarrollado con fines académicos.
 <br><br>
-<img src="https://www.greatplacetowork.com.pe/mejores-lugares-para-trabajar/los-mejores-lugares-para-trabajar-en-per%C3%BA/2026/utp">
+<img src="https://visualizate.utpxpedition.com/sites/default/files/2020-02/logo-visualizate.png">
 
 
 </div>
