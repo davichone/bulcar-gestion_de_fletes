@@ -2,20 +2,16 @@
 
 # 📚 Proyecto Académico
 
-### **Curso:** Patrones de Diseño
+<img src="https://img.shields.io/badge/Universidad-UTP-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Curso-Patrones%20de%20Diseño-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Carrera-Ingeniería%20de%20Software-green?style=for-the-badge">
 
-**Docente:** Prado Ventocilla Adolfo Jorge
+<br><br>
 
-<br>
+**👨‍🏫 Docente:** Prado Ventocilla Adolfo Jorge
 
-## UNIVERSIDAD TECNOLÓGICA DEL PERÚ
+**🎓 Universidad Tecnológica del Perú**
 
-### Ingeniería de Software
+Repositorio desarrollado con fines académicos.
 
 </div>
-
-<hr>
-
-<p align="center">
-Repositorio desarrollado con fines académicos para el curso de <strong>Patrones de Diseño</strong>.
-</p>
