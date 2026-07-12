@@ -14,7 +14,7 @@
 
 Repositorio desarrollado con fines académicos.
 <br><br>
-<img src="https://visualizate.utpxpedition.com/sites/default/files/2020-02/logo-visualizate.png">
+<img src="utp.jpg">
 
 
 </div>
